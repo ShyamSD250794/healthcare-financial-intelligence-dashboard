@@ -5,20 +5,19 @@ A Tableau-based healthcare analytics dashboard designed to analyze hospital fina
 ## 📊 Dashboard Preview
 
 ### Financial Overview
+![Financial Overview](Screenshots/financial_overview.png)
 
-![Financial Overview](Screenshots/Financial_Overview.png)
 
 ### Peer Benchmarking
+![Peer Benchmarking](Screenshots/peer_benchmarking.png)
 
-![Peer Benchmarking](Screenshots/Peer_Benchmarking.png)
 
 ### Facility Risk Monitor
+![Facility Risk Monitor](Screenshots/facility_risk_monitor.png)
 
-![Facility Risk Monitor](Screenshots/Facility_Risk_Monitor.png)
 
 ### Data Quality & Exceptions
-
-![Data Quality & Exceptions](Screenshots/Data_Quality_Exceptions.png)
+![Data Quality & Exceptions](Screenshots/data_quality_exceptions.png)
 
 
 
@@ -28,13 +27,13 @@ A Tableau-based healthcare analytics dashboard designed to analyze hospital fina
 
 Demonstrates dynamic hospital and quarter selection and how the peer benchmarking metrics respond to user selections.
 
-![Peer Benchmarking Interaction](Demo/Peer_Benchmarking_Interaction.gif)
+![Peer Benchmarking Interaction](Demo/peer_benchmarking_interaction.gif)
 
 ### Facility Risk Monitor
 
 Demonstrates quarter-driven updates across the risk KPIs, risk profile, flagged risks, facility map, and review watchlist.
 
-![Facility Risk Monitor Interaction](Demo/Facility_Risk_Monitor_Interaction.gif)
+![Facility Risk Monitor Interaction](Demo/facility_risk_monitor_interaction.gif)
 
 
 ## 📖 Project Overview
