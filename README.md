@@ -4,7 +4,38 @@ A Tableau-based healthcare analytics dashboard designed to analyze hospital fina
 
 ## 📊 Dashboard Preview
 
-*Screenshots of the four dashboard pages are included in the `Screenshots` folder.*
+### Financial Overview
+
+![Financial Overview](Screenshots/Financial_Overview.png)
+
+### Peer Benchmarking
+
+![Peer Benchmarking](Screenshots/Peer_Benchmarking.png)
+
+### Facility Risk Monitor
+
+![Facility Risk Monitor](Screenshots/Facility_Risk_Monitor.png)
+
+### Data Quality & Exceptions
+
+![Data Quality & Exceptions](Screenshots/Data_Quality_Exceptions.png)
+
+
+
+## 🎬 Interactive Demo
+
+### Peer Benchmarking
+
+Demonstrates dynamic hospital and quarter selection and how the peer benchmarking metrics respond to user selections.
+
+![Peer Benchmarking Interaction](Demo/Peer_Benchmarking_Interaction.gif)
+
+### Facility Risk Monitor
+
+Demonstrates quarter-driven updates across the risk KPIs, risk profile, flagged risks, facility map, and review watchlist.
+
+![Facility Risk Monitor Interaction](Demo/Facility_Risk_Monitor_Interaction.gif)
+
 
 ## 📖 Project Overview
 
@@ -78,6 +109,10 @@ Healthcare-Financial-Intelligence-Dashboard/
 │   ├── Peer_Benchmarking.png
 │   ├── Facility_Risk_Monitor.png
 │   └── Data_Quality_Exceptions.png
+│
+├── Demo/
+│   ├── Peer_Benchmarking_Interaction.gif
+│   └── Facility_Risk_Monitor_Interaction.gif
 │
 └── SQL/
     └── Project3_Oracle_SQL_Final.sql
